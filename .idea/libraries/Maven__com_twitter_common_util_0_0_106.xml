@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.twitter.common:util:0.0.106">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/common/util/0.0.106/util-0.0.106.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/common/util/0.0.106/util-0.0.106-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/common/util/0.0.106/util-0.0.106-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
